@@ -1,0 +1,10 @@
+# Data Analysis & Financial Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+finance-datareader>=0.9.60
+yfinance>=0.2.30
+
+# Optional but recommended for visualization and math
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scipy>=1.10.0
